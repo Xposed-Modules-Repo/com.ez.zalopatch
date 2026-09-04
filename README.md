@@ -6,8 +6,9 @@ fail-soft and exact-version based.
 ## Compatibility
 
 - Zalo package: `com.zing.zalo`
-- Supported build: Zalo 26.08.01 (`versionCode 260801903`)
-- Minimum Xposed API: 82
+- Supported build: Zalo 26.08.02 (`versionCode 260802903`)
+- Android 8.0 (API 26) or newer
+- LibXposed API 102
 
 Unsupported Zalo artifacts do not use nearest-version symbols. Features requiring unavailable
 anchors remain disabled until an exact signed compatibility entry or bundled map exists.
@@ -41,6 +42,6 @@ Call recording is opt-in. Users are responsible for complying with consent and r
 
 - Source: https://github.com/amarinne/zalo-patch
 - Issues: https://github.com/amarinne/zalo-patch/issues
-- Signed upstream release: https://github.com/amarinne/zalo-patch/releases/tag/v0.4.151
+- Signed upstream release: https://github.com/amarinne/zalo-patch/releases/tag/v0.4.196
 
 Zalo Patch is unofficial and is not affiliated with or endorsed by Zalo or VNG.
