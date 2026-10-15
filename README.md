@@ -44,6 +44,6 @@ Call recording is opt-in. Users are responsible for complying with consent and r
 
 - Source: https://github.com/amarinne/zalo-patch
 - Issues: https://github.com/amarinne/zalo-patch/issues
-- Signed upstream release: https://github.com/amarinne/zalo-patch/releases/tag/v0.4.315
+- Signed upstream release: https://github.com/amarinne/zalo-patch/releases/tag/v0.4.329
 
 Zalo Patch is unofficial and is not affiliated with or endorsed by Zalo or VNG.
