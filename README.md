@@ -6,7 +6,7 @@ fail-soft and exact-version based.
 ## Compatibility
 
 - Zalo package: `com.zing.zalo`
-- Supported builds: Zalo 26.10.01 (`versionCode 261001903` or `261001905`)
+- Supported builds: Zalo 26.10.02 (`versionCode 261002901` or `261002903`) and 26.10.01 (`261001903` or `261001905`)
 - Android 8.0 (API 26) or newer
 - LibXposed API 102
 
@@ -18,6 +18,7 @@ For best experience, do not update Zalo.
 ## Features
 
 - Clean up bottom navigation, inbox, chat, and Me-screen surfaces.
+- Add a native Unicode emoji picker to the reaction bar.
 - Add inbox category controls for chats, groups, official accounts, and strangers.
 - Conservatively filter reviewed promotional notifications.
 - Suppress selected analytics and advertising paths.
@@ -44,6 +45,6 @@ Call recording is opt-in. Users are responsible for complying with consent and r
 
 - Source: https://github.com/amarinne/zalo-patch
 - Issues: https://github.com/amarinne/zalo-patch/issues
-- Signed upstream release: https://github.com/amarinne/zalo-patch/releases/tag/v0.4.329
+- Signed upstream release: https://github.com/amarinne/zalo-patch/releases/tag/v0.4.342
 
 Zalo Patch is unofficial and is not affiliated with or endorsed by Zalo or VNG.
